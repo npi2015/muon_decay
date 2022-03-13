@@ -8,9 +8,11 @@ The measurement labeled Cs_al_90 is actually 180 on the turnwheel, but the detec
 Corresponds to 90 degrees.
 
                Detector
-                  ¦
-                  ¦
-                  ¦
-                  ¦
-                  ¦
+                  Â¦
+                  Â¦
+                  Â¦
+                  Â¦
+                  Â¦
 Source ------- Aluminum
+
+The angle referenced in the files is always the angle between the source and the detector, supplementary to the one referenced in Comtpon Scattering.
